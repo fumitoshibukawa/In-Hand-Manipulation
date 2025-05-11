@@ -1,2 +1,3 @@
-git@github.com:fumitoshibukawa/In-Hand-Manipulation.git
+SSH: git@github.com:fumitoshibukawa/In-Hand-Manipulation.git
 
+HTTPS: https://github.com/fumitoshibukawa/In-Hand-Manipulation.git
